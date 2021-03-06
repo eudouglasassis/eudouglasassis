@@ -1,4 +1,6 @@
-<h1>Sobre Mim</h1>
-<p>Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Junto à graduação, estou formando uma base sólida de conhecimentos em Algoritmos e Estrutura de Dados e nas ferramentas HTML, CSS, JavaScript, Node.js, Python, SQL, NoSQL e Git. Almejo fazer carreira como Desenvolvedor Back-end e me aperfeiçoar constantemente na área, sempre atualizando meus conhecimentos e elevando aquilo que domino a um próximo nível.<p>
-
-<p>Possuo bacharelado em Engenharia civil, o que me possibilitou adquirir conhecimentos em Cálculo Diferencial e Integral; Álgebra Linear; Geometria Analítica; Física e Mecânica, desenvolvendo Raciocínio Lógico e Matemático. Na universidade fui Monitor de Cálculo I e II para alunos recém ingressados nos cursos de Engenharia. No âmbito profissional, tive experiência na área de elaboração de Projetos Arquitetônicos Residenciais e Comerciais.<p>
+<h1>About</h1>
+<p>&#127919 Analysis and Systems Development student at Mackenzie.</p>
+<p>&#128640 In the way of JavaScript; TypeScript; Node.js; SQL; NoSQL; Git and Linux.</p>
+<p>&#127891 Bachelor of Civil Engineering.</p>
+<p>&#128205 Coromandel, Minas Gerais, Brazil.</p>
+<h1>I'ts a long way to the top if you wanna Rock'n roll!</h1>
