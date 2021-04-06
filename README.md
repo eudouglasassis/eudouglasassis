@@ -1,5 +1,5 @@
-<h2>Desenvolvedor Full Stack em formação</h2>
-<p>&#127919  Estudante de Análise e Desenvolvimento de Sistemas na <b>Universidade Mackenzie</b>.</p>
-<p>&#128640  Formando conhecimentos em <b>HTML, CSS, JavaScript, Git e Linux</b>.</p>
-<p>&#127891  Bacharel em <b>Engenharia civil</b>.</p>
-<p>&#128205  Minas Gerais, <b>Brasil</b>.</p>
+<h2>Full Stack Developer under construction</h2>
+
+<p>Analysis and System Development Student at Mackenzie University. Simultaneosly the university, I improve my knowledge with courses and individual studies, focused in Algorithms and Data Structure and in tools: HTML5, CSS3, JavaScript, Git and Linux. I have the goal to make career in Back-end Development, constantly improving in these dynamic universe, always updating my knowledges and raising my skills to a next level.</p>
+
+<p>I have bachelor degree in Civil Engineering, which enabled me to had knowledges in Differential Calculus, Linear Algebra, Analytic Geometry, Physics and Mechanics, developing Logical em Mathematical reasoning.</p>
