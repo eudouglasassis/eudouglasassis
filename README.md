@@ -4,4 +4,4 @@
 
 <p>I have the goal to make career in <b>Full Stack Development</b>, constantly improving in these dynamic universe, always updating my knowledges and raising my skills to a <b>next level</b>.</p>
 
-<p>I have bachelor degree in <b>Civil Engineering</b>, which enabled me to had knowledges in Differential Calculus, Linear Algebra, Analytic Geometry, Physics and Mechanics, developing Logical and <b>Mathematical reasoning</b>.</p>
+<p>I have bachelor degree in <b>Civil Engineering</b>, which enabled me to had knowledges in Differential Calculus, Linear Algebra, Analytic Geometry, Physics and Mechanics, developing <b>Logical and Mathematical reasoning</b>.</p>
