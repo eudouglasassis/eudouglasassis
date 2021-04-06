@@ -1,4 +1,4 @@
-<h2>Full Stack Developer under construction</h2>
+<h2>Full Stack Developer (under construction)</h2>
 
 <p>Analysis and System Development Student at Mackenzie University. Simultaneosly the university, I improve my knowledge with courses and individual studies, focused in Algorithms and Data Structure and in tools: HTML5, CSS3, JavaScript, Git and Linux.</p>
 
