@@ -1,7 +1,9 @@
-<h2>Full Stack Developer (under construction)</h2>
+# Douglas Assis
 
-<p><b>Analysis and System Development</b> student at Mackenzie University. Simultaneosly the university, I improve my knowledge with courses and individual studies, focused in <b>Algorithms</b> and <b>Data Structure</b> and in tools: <b>HTML5, CSS3, JavaScript, Git and Linux</b>.</p>
+## Seja bem-vindo 👋
+Estudante de Desenvolvimento Web, com o objetivo de ser um facilitador por meio da Tecnologia.
 
-<p>I have the goal to make career in <b>Full Stack Development</b>, constantly improving in these dynamic universe, always updating my knowledges and raising my skills to a <b>next level</b>.</p>
-
-<p>I have bachelor degree in <b>Civil Engineering</b>, which enabled me to had knowledges in Differential Calculus, Linear Algebra, Analytic Geometry, Physics and Mechanics, developing <b>Logical and Mathematical reasoning</b>.</p>
+ :books: &nbsp; Cursando Análise e Desenvolvimento de Sistemas na Universidade Mackenzie.
+ <br/> :rocket:  &nbsp; &nbsp; Trilhando o caminho do Desenvolvimento Web, almejando carreira como Full-Stack.
+ <br/> :fire: &nbsp; Estudando HTML, CSS, JavaScript, Algoritmos e Estrutura de Dados.
+ <br/> 💬  &nbsp; Consumidor assíduo de cinema e música, ciclista e produtor de música eletrônica nas horas vagas.
