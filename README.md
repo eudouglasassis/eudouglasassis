@@ -1,7 +1,7 @@
 # Desenvolvedor Web
 
 ## Seja bem-vindo 👋
-Estudante de Desenvolvimento Web, com o objetivo de ser um facilitador por meio da Tecnologia.
+Meu objetivo de ser um facilitador por meio da Tecnologia.
 
  :books:  Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
  <br/>  :rocket: Trilhando o caminho do Desenvolvimento Web, almejando carreira como Full-Stack.
