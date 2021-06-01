@@ -9,3 +9,6 @@
  <br/>  :mag_right: Interesse em: TypeScript | NodeJS | PostgreSQL | MongoDB | Python.
  <br/>   :earth_americas: Idiomas: Inglês Técnico e Português nativo.
  <br/>  :mortar_board: Formação: Bacharel em Engeharia civil.
+ 
+ :envelope: eudouglasassis@gmail.com
+ 
