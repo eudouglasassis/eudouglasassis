@@ -10,5 +10,5 @@
  <br/>   :earth_americas: Idiomas: Inglês Técnico e Português nativo.
  <br/>  :mortar_board: Formação: Bacharel em Engenharia civil.
  
-:envelope: Contato:  eudouglasassis@gmail.com
+:mailbox_closed: Contato:  eudouglasassis@gmail.com
  
