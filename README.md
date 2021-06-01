@@ -1,6 +1,6 @@
 # Desenvolvedor Web
 
-## Seja muito bem-vindo 👋
+## Seja Bem-vindo 👋
 <b>:dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.</b>
 
  :books:  Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
