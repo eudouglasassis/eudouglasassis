@@ -1,7 +1,7 @@
 # Desenvolvedor Web
 
 ## Bem-vindo 👋
-<b>:dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.</b>
+:dart: <b>Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.</b>
 
  :books:  Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
  <br/>  :rocket: Fundamentos sólidos em: HTML5 | CSS3 | JavaScript | Bootstrap 5 | Git | Linux.
@@ -10,6 +10,6 @@
  <br/>   :earth_americas: Idiomas: Inglês Técnico e Português nativo.
  <br/>  :mortar_board: Formação: Bacharel em Engeharia civil.
  
- <b>Entre em contato</b>
- :envelope: eudouglasassis@gmail.com
+:envelope: <b>Entre em contato</b>
+douglasassis@gmail.com
  
