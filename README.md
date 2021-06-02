@@ -1,7 +1,7 @@
 # Desenvolvedor Web
 
-## Bem-vindo 👋
-:dart: <b>Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.</b>
+## :raising_hand_man: Bem-vindo
+## :dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.
 
  :books:  Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
  <br/>  :rocket: Fundamentos sólidos em: HTML5 | CSS3 | JavaScript | Bootstrap | Git | Linux.
