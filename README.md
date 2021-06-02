@@ -1,6 +1,6 @@
 # Desenvolvedor Web
 
-## :raising_hand_man: Bem-vindo
+## :wave: Bem-vindo
 ### :dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.
 
  :books:  Cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
