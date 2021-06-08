@@ -15,5 +15,5 @@
 <br>
 :mortar_board: Formação: Bacharel em Engenharia civil.
 <br>
-:incoming_envelop: Entre em contato:  eudouglasassis@gmail.com
+:incoming_envelope: Entre em contato:  eudouglasassis@gmail.com
  
