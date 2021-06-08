@@ -7,7 +7,7 @@
 <br>
 :rocket: Fundamentos sólidos em: HTML5 | CSS3 | JavaScript | Bootstrap | Git | Linux.
 <br>
-<p>:fire: Estudante assíduo de: Algoritmos | Estrutura de Dados | Arquitetura de Software.
+:fire: Estudante assíduo de: Algoritmos | Estrutura de Dados | Arquitetura de Software.
 <br>
 :mag_right: Interesse em: TypeScript | NodeJS | PostgreSQL | MongoDB | Python.
 <br>
