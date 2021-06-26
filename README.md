@@ -9,7 +9,7 @@
 <br>
 :fire: Estudante assíduo de: Algoritmos | Estrutura de Dados | Arquitetura de Software.
 <br>
-:mag_right: Interesse em: TypeScript | NodeJS | PostgreSQL | MongoDB | SASS | Python.
+:mag_right: Interesse em: SASS | TypeScript | NodeJS | PostgreSQL | MongoDB | Python.
 <br>
 :earth_americas: Idiomas: Inglês técnico e Português nativo.
 <br>
