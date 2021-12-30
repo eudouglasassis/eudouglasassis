@@ -1,7 +1,7 @@
 # Programador e Engenheiro
 
 ## :wave: Bem-vindo
-### :dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.
+### :dart: Meu objetivo é ser um solucionador de problemas utilizando a Tecnologia.
 
 Graduado em Engenharia civil pela Universidade de Uberaba;
 <br>
