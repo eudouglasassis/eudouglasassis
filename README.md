@@ -1,16 +1,13 @@
-### Hi there 👋
+# Desenvolvedor Web
 
-<!--
-**eusouoassis/eusouoassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :wave: Bem-vindo
+### :dart: Meu objetivo é ser um facilitador e solucionador de problemas utilizando a Tecnologia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduado em Engenharia civil pela Universidade de Uberaba;
+<br>
+Cursando Defesa Cibernética pela FIAP;
+<br>
+Desenvolvedor Full Stack e Hacker Ético na HackerOne.
+<br>
+<br>
+:incoming_envelope: Entre em contato:  eudouglasassis@yahoo.com
