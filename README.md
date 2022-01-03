@@ -9,6 +9,7 @@
 <br>
 🌎 Idiomas: Inglês técnico e Português nativo.
 <br>
-:computer: Graduado em Engenharia da computação pela Universidade de Uberaba.
+:computer: Graduado em Engenharia da Computação pela Universidade de Uberaba.
+<br>
 <br>
 :incoming_envelope: Entre em contato:  eudouglasassis@yahoo.com
