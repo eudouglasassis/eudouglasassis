@@ -7,9 +7,9 @@
 <br>
 🔥 Estudante assíduo de: Algoritmos | Estrutura de Dados | Arquitetura de Software.
 <br>
-🌎 Idiomas: Inglês técnico e Português nativo.
-<br>
 :computer: Graduado em Engenharia da Computação pela Universidade de Uberaba.
+<br>
+🌎 Idiomas: Inglês técnico e Português nativo.
 <br>
 <br>
 :incoming_envelope: Entre em contato:  eudouglasassis@yahoo.com
