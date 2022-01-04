@@ -7,7 +7,7 @@
 <br>
 🔥 Estudante assíduo de: Algoritmos | Estrutura de Dados | Arquitetura de Software.
 <br>
-:computer: Graduado em Engenharia da Computação pela Universidade de Uberaba.
+:computer: Graduando em Análise e Desenvolvimento de Sistemas pela FIAP.
 <br>
 🌎 Idiomas: Inglês técnico e Português nativo.
 <br>
